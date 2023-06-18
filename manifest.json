@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "FIX DISCORD PINGS",
+  "version": "1.0",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "*://discord.com/*/"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://discord.com/*"
+      ],
+      "css": ["style.css"]
+    }
+  ]
+}
