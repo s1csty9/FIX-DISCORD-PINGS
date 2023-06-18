@@ -1,2 +1,2 @@
 # FIX DISCORD PINGS
-Changes the background colour of discord pings to be less annoying
+FIX DISCORD PINGS is a chrome extension that changes the colour of discord pings from the disgusting shade of yellow/orange to a much nicer greyish blue, fitting in with the dark theme and being more gentle on the eyes.
